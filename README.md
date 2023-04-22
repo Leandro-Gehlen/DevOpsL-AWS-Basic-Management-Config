@@ -15,7 +15,7 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 
 ## 1° Step - Creating a root account on AWS
 
-> #### Must have
+> #### *Must have*
 > 
 > - I had to create a new email account so I can create a test root user on AWS.
 > - I´ve also created a .gitignore file and set .env to be ignored.
