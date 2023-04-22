@@ -35,6 +35,7 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 - Click on your root name and go to my billing dashboard.
 - If , like mine, your aws dashboard was automatically translated to your mother language, search for the respective translation.
 
+### Setting Billing alerts
 -------------------------
 That´s where you gonna find the aws billing dashboard. Just click on it to go.
 
@@ -45,7 +46,19 @@ That´s where you gonna find the aws billing dashboard. Just click on it to go.
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2001_38_45-Billing%20Management%20Console.png)
 
 --------------
+- Click on edit button and check the box to activate the billing alerts.
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2002_11_14-Billing%20Management%20Console.png)
+
+### AWS Budget
+
+- Search for budget and go to AWS Budget.
+- Create a new Budget
+- By creating a Budget you will be able to know if your AWS account reached you budget and be alerted about it.
+- The zero cost budget is the recommended to those that are just learning.
+- After have your new budget created the screen will be look like bellow.
+----------------
+
+![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2002_53_48-%E2%97%8F%20README.md%20-%20aws-management%20-%20Visual%20Studio%20Code.png)
 
 
 
