@@ -60,6 +60,8 @@ That´s where you gonna find the aws billing dashboard. Just click on it to go.
 
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2002_53_48-%E2%97%8F%20README.md%20-%20aws-management%20-%20Visual%20Studio%20Code.png)
 
+---------------
+![]()
 
 
 
