@@ -22,7 +22,7 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 > - So, after a new email for testing purpose has been created, let´s create a brand new root account on aws.
 > - Back to video
 
-[Sign up](https://github.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/blob/main/images/2023-04-22%2000_53_25-AWS%20Console%20-%20Signup.png?raw=true)
+[Sign up](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2000_53_25-AWS%20Console%20-%20Signup.png)
 
 
 
