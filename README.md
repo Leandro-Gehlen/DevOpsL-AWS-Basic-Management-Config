@@ -28,6 +28,12 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2000_54_40-Registration%20Confirmation.png)
 
+## 2° Step - Avoid Over Billing by setting Budgets and Billing alarms
+
+- Make sure you are on us-east-1 (Virginia). Beacuse some services configurations might not work on other regions. 
+- Once you have reached the AWS Management Console page, we now will configure the budget alert.
+- Click on your root name and go to my billing dashboard.
+- If , like mine, your aws dashboard was automatically translated to your mother language, search for the respective translation.
 
 
 
