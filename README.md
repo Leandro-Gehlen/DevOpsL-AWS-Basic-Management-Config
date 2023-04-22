@@ -63,6 +63,9 @@ That´s where you gonna find the aws billing dashboard. Just click on it to go.
 ---------------
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/personalized-budget-creation.png)
 
+-------------------
+
+> - After setting a budget you can set more budgets with diferent amounts so you can receive an alert every time your defined budget is reached. Tha way you will have total control and wont be overbilled on AWS. That´s it. Let´s move on!
 
 
 
