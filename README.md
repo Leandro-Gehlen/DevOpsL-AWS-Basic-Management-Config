@@ -17,10 +17,10 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 
 > #### Must have
 > 
-> I had to create a new email account so I can create a test root >user on AWS.
-> I´ve also created a .gitignore file and set .env to be ignored.
-> So, after a new email for testing purpose has been created, let´s >create a brand new root account on aws.
->
+> - I had to create a new email account so I can create a test root user on AWS.
+> - I´ve also created a .gitignore file and set .env to be ignored.
+> - So, after a new email for testing purpose has been created, let´s create a brand new root account on aws.
+> - Back to video
 
 
 
