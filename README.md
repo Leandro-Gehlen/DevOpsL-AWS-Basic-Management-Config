@@ -20,9 +20,13 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 > - I had to create a new email account so I can create a test root user on AWS.
 > - I´ve also created a .gitignore file and set .env to be ignored.
 > - So, after a new email for testing purpose has been created, let´s create a brand new root account on aws.
-> - Back to video
+> - After fill in your email and password, choose the free plan.
 
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2000_53_25-AWS%20Console%20-%20Signup.png)
+
+-------------------------------
+
+![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2000_54_40-Registration%20Confirmation.png)
 
 
 
