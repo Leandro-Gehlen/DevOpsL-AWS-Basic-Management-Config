@@ -67,5 +67,13 @@ That´s where you gonna find the aws billing dashboard. Just click on it to go.
 
 > - After setting a budget you can set more budgets with diferent amounts so you can receive an alert every time your defined budget is reached. Tha way you will have total control and wont be overbilled on AWS. That´s it. Let´s move on!
 
+--------
+# Starting Learning AWS IAM 
+
+At AWS IAM you are able to create users and manage their access. So, That´s the place we security access policy relies.
+It´s at IAM that you are able to protect your root account by creating an administrator account.
+Using a root account is bad practice.
+
+## 3° Step - Securing root account and creating an administrative user account
 
 
