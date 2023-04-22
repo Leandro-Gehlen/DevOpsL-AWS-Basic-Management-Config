@@ -35,5 +35,9 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 - Click on your root name and go to my billing dashboard.
 - If , like mine, your aws dashboard was automatically translated to your mother language, search for the respective translation.
 
+-------------------------
+
+![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2001_28_54-AWS%20Management%20Console.png)
+
 
 
