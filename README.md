@@ -36,8 +36,14 @@ Click [**HERE**](https://www.youtube.com/watch?v=U3VSJhaC4kc&t=3899s) to open th
 - If , like mine, your aws dashboard was automatically translated to your mother language, search for the respective translation.
 
 -------------------------
+That´s where you gonna find the aws billing dashboard. Just click on it to go.
 
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2001_28_54-AWS%20Management%20Console.png)
+
+------------------------
+
+![]()
+
 
 
 
