@@ -54,14 +54,14 @@ That´s where you gonna find the aws billing dashboard. Just click on it to go.
 - Search for budget and go to AWS Budget.
 - Create a new Budget
 - By creating a Budget you will be able to know if your AWS account reached you budget and be alerted about it.
-- The zero cost budget is the recommended to those that are just learning.
+- The  **cost budget** is the recommended to those that are just learning. Set a limit to your recurrent monthly budget. Be alerted if it reachs a percentage of it.
 - After have your new budget created the screen will be looking like bellow.
 ----------------
 
 ![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/2023-04-22%2003_08_15-Billing%20Management%20Console.png)
 
 ---------------
-![]()
+![](https://raw.githubusercontent.com/Leandro-Gehlen/DevOpsL-AWS-Basic-Management-Config/main/images/personalized-budget-creation.png)
 
 
 
